@@ -6,7 +6,7 @@
 
 In this lab, you will set up a virtual machine in Azure, test internet geolocation from different regions, and configure a VPN to explore how it affects online location and browsing experiences. You will also learn to manage Azure resources and observe the impact of VPN connections on websites and services.
 
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/6b91c617-7fb4-431a-b1de-a948749b5799">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/03e61f89-4a6e-4ba2-83eb-59539d1b91fe">
 
 <h1 align="center">Lab Overiew</h1>
 
@@ -75,12 +75,6 @@ Once inside you VM open Microsoft Edge and brwose https:whatismyipaddress.com th
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/29ff42dd-d76a-424f-9516-0f6dafc2bcbd">
 
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
 </details>
 
 <details>
@@ -91,7 +85,17 @@ Once inside you VM open Microsoft Edge and brwose https:whatismyipaddress.com th
 
 </summary>
 
-<img width="800" alt="isolated" src="">
+Once you create an account login on your VM and go to **Downloads**, select **Windows**, then on the next page select **Windows 11/10**.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3f4f9931-726d-43fb-afd8-2c620c0d1e28">
+
+<br>
+<br>
+<br>
+
+Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**, then **login**.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d1de5592-3da7-4281-af35-217d33dafeeb">
 
 <br>
 <br>
