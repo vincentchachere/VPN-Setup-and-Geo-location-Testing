@@ -43,7 +43,7 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 - Browse https:whatismyipaddress.com from our Virtual Machine
 - Install and connect to a VPN on the VM
 - Revisit https:whatismyipaddress.com from the VPN
-- Explore various websites using the VPN on the VM
+- Explore websites using a VPN on the VM
 
 ## Configuration Steps
 
@@ -73,7 +73,7 @@ Create your resource group and virtual machine then login. **Pick a different re
 <br>
 <br>
 
-Once inside you VM open Microsoft Edge and **browose https:whatismyipaddress.com** then **take note** of it in a text file.
+Once inside the VM open Microsoft Edge and **browose https:whatismyipaddress.com** then **take note** of it in a text file.
 
 *This is number 3 from the lab overview image explanation.*
 
@@ -105,7 +105,17 @@ Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**
 <br>
 <br>
 
-**Revisit https:whatismyipaddress.com** and **take note** of the new information in a text file.
+Once you get logged in select **Quick Connect** in the upper left corner and ProtonVPN will assign you a VPN server in a new region.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/dc981896-b266-4617-93f1-aeacc2fe8b55">
+
+<br>
+<br>
+<br>
+
+Now that you have a VPN linked to your VM you can **Revisit https:whatismyipaddress.com** and **take note** of the new information in a text file.
+
+Observe in the text file how each piece of information is different, highlighting the difference between using a VPN and not using one. A **VPN will help mask your true IP address** and **encrypt your internet traffic**, making it significantly harder for malicious actors to track your online activity, access your personal or business information and resources, or even launch targeted attacks based on your location.
 
 *This is number 5 from the lab overview image explanation.*
 
@@ -115,13 +125,25 @@ Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+**Visit Google** and **perform a search**. Observe how the search results populate, as the language and content may reflect the region of your current IP address or VPN connection.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0efc13bd-3639-486d-80c1-f9ef5369cbeb">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+Change your server and we'll try another website next. Select **Change Server** in the upper left corner.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/59f7b67e-0baf-4049-93b4-241e8710b73a">
+
+<br>
+<br>
+<br>
+
+**Browse samsung.com, apple.com, or youtube.com** and notice the region your VPN is in will be displayed as the location on the website.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b4e8f855-68d6-4777-9e74-af59c1e1619e">
 
 </details>
 
@@ -133,25 +155,9 @@ Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**
 
 </summary>
 
-<img width="800" alt="isolated" src="">
+Go back into your Azure portal and **delete all your resources** when your done.
 
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/42d9237b-d1ab-498f-a3e0-fca36ea63be5">
 
 </details>
 
