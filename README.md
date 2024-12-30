@@ -8,7 +8,9 @@ In this lab, you will set up a virtual machine in Azure, test internet geolocati
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/6b91c617-7fb4-431a-b1de-a948749b5799">
 
-<h1 align="center">Lab Overiew (Image above Explained)</h1>
+<h1 align="center">Lab Overiew</h1>
+
+*Image Above Explained*
 
 1. Visit https:whatismyipaddress.com from our personal computer
 2. Create a VM and connect via RDP
@@ -37,8 +39,8 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 ## High-Level VPN Setup and Geo-Location Testing Steps
 
-- Browse https:whatismyipaddress.com from your Personal Computer
-- Browse https:whatismyipaddress.com from your Virtual Machine
+- Browse https:whatismyipaddress.com from our Personal Computer
+- Browse https:whatismyipaddress.com from our Virtual Machine
 - Install and connect to a VPN on the VM
 - Revisit https:whatismyipaddress.com from the VPN
 - Explore various websites using the VPN on the VM
@@ -55,19 +57,23 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 Before creating our resources we'll **browse to https:whatismyipaddress.com** from our **personal computer** and take note of this in a text file.
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/75a13f40-051d-47c1-8940-6dfeae85bbfe">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+Create your resource group and virtual machine then login. Pick a region different from your own.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b5fd3801-609c-45ce-bd2f-d844a62323ea">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+Once inside you VM open Microsoft Edge and brwose https:whatismyipaddress.com then take note of it in a text file.
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/29ff42dd-d76a-424f-9516-0f6dafc2bcbd">
 
 <br>
 <br>
