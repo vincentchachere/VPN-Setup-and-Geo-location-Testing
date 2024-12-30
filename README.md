@@ -57,13 +57,15 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 Before creating our resources we'll **browse to https:whatismyipaddress.com** from our **personal computer** and take note of this in a text file.
 
+*This is number 1 from the lab overview image explanation.*
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/75a13f40-051d-47c1-8940-6dfeae85bbfe">
 
 <br>
 <br>
 <br>
 
-Create your resource group and virtual machine then login. Pick a region different from your own.
+Create your resource group and virtual machine then login. **Pick a different region** from your own.
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b5fd3801-609c-45ce-bd2f-d844a62323ea">
 
@@ -71,7 +73,9 @@ Create your resource group and virtual machine then login. Pick a region differe
 <br>
 <br>
 
-Once inside you VM open Microsoft Edge and brwose https:whatismyipaddress.com then take note of it in a text file.
+Once inside you VM open Microsoft Edge and **browose https:whatismyipaddress.com** then **take note** of it in a text file.
+
+*This is number 3 from the lab overview image explanation.*
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/29ff42dd-d76a-424f-9516-0f6dafc2bcbd">
 
@@ -101,7 +105,11 @@ Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+**Revisit https:whatismyipaddress.com** and **take note** of the new information in a text file.
+
+*This is number 5 from the lab overview image explanation.*
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7df18a65-14e9-4e01-8f54-0381a52cc762">
 
 <br>
 <br>
