@@ -12,7 +12,7 @@ In this lab, you will set up a virtual machine in Azure, test internet geolocati
 
 *Image Above Explained*
 
-1. Visit https:whatismyipaddress.com from our personal computer
+1. Visit https:whatismyipaddress.com from your personal computer
 2. Create a VM and connect via RDP
 3. Access https:whatismyipaddress.com from the VM
 4. Install and connect to a VPN on the VM
@@ -39,8 +39,8 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 ## High-Level VPN Setup and Geo-Location Testing Steps
 
-- Browse https:whatismyipaddress.com from our Personal Computer
-- Browse https:whatismyipaddress.com from our Virtual Machine
+- Browse https:whatismyipaddress.com from your Personal Computer
+- Browse https:whatismyipaddress.com from your Virtual Machine
 - Install and connect to a VPN on the VM
 - Revisit https:whatismyipaddress.com from the VPN
 - Explore websites using a VPN on the VM
@@ -51,7 +51,7 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 <summary>
 
-### 🌐 Part 1: Create a Resource Group and Virtual Machine 
+### 🌐 Step 1: Browse https:whatismyipaddress.com from your Personal Computer
 
 </summary>
 
@@ -61,9 +61,15 @@ Before creating our resources we'll **browse to https:whatismyipaddress.com** fr
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/75a13f40-051d-47c1-8940-6dfeae85bbfe">
 
-<br>
-<br>
-<br>
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Step 2: Browse https:whatismyipaddress.com from your Virtual Machine
+
+</summary>
 
 Create your resource group and virtual machine then login. **Pick a different region** from your own.
 
@@ -85,7 +91,7 @@ Once inside the VM open Microsoft Edge and **browose https:whatismyipaddress.com
 
 <summary>
 
-### 🌐 Part 2: Sign Up for ProtonVPN and Test the VPN Connection
+### 🌐 Step 3: Sign Up for ProtonVPN and Test the VPN Connection on the VM
 
 </summary>
 
@@ -105,13 +111,19 @@ Open the **ProtonVPN download**, click **OK**, click **Next**, click **Install**
 <br>
 <br>
 
-Once you get logged in select **Quick Connect** in the upper left corner and ProtonVPN will assign you a VPN server in a new region.
+Once you get logged in select **Quick Connect** in the upper left corner and ProtonVPN will assign your VM a VPN server in a new region.
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/dc981896-b266-4617-93f1-aeacc2fe8b55">
 
-<br>
-<br>
-<br>
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Step 4: Revisit https:whatismyipaddress.com from the VPN
+
+</summary>
 
 Now that you have a VPN linked to your VM you can **Revisit https:whatismyipaddress.com** and **take note** of the new information in a text file.
 
@@ -121,9 +133,15 @@ Observe in the text file how each piece of information is different, highlightin
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7df18a65-14e9-4e01-8f54-0381a52cc762">
 
-<br>
-<br>
-<br>
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Step 5: Explore Websites using a VPN on the VM
+
+</summary>
 
 **Visit Google** and **perform a search**. Observe how the search results populate, as the language and content may reflect the region of your current IP address or VPN connection.
 
@@ -151,7 +169,7 @@ Change your server and we'll try another website next. Select **Change Server** 
 
 <summary>
 
-### 🌐 Part 3: Clean Up Azure Resources
+### 🌐 Step 5: Clean Up Azure Resources
 
 </summary>
 
