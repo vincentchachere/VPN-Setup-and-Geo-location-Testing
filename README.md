@@ -38,3 +38,92 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 ## Configuration Steps
 
+<details>
+
+<summary>
+
+### 🌐 Part 1: 
+
+</summary>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Part 2: 
+
+</summary>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Part 3: 
+
+</summary>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+</details>
