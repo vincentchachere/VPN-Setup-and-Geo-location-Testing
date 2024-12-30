@@ -42,7 +42,7 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 <summary>
 
-### 🌐 Part 1: 
+### 🌐 Part 1: Create a Resource Group and Virtual Machine 
 
 </summary>
 
@@ -72,7 +72,7 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 <summary>
 
-### 🌐 Part 2: 
+### 🌐 Part 2: Sign Up for ProtonVPN and Test the VPN Connection
 
 </summary>
 
@@ -102,7 +102,7 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 
 <summary>
 
-### 🌐 Part 3: 
+### 🌐 Part 3: Clean Up Azure Resources
 
 </summary>
 
@@ -127,3 +127,15 @@ A **VPN (Virtual Private Network)** is a secure connection that encrypts your in
 <img width="800" alt="isolated" src="">
 
 </details>
+
+<h2 align="center">Final Thoughts</h2>
+
+**Final Thoughts:**  
+
+This lab demonstrated how VPNs can enhance online privacy, mask your location, and provide access to region-specific content. By setting up a virtual machine in Azure and testing a VPN, we explored the practical impacts of geolocation changes and gained hands-on experience with cloud resources and VPN configuration. These skills are essential for understanding network security, privacy, and global connectivity in today’s digital world.
+
+If you haven’t done so yet, check out my other labs to further enhance your knowledge and skills. Explore topics like [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts), [File Shares and Permissions](https://github.com/vincentchachere/Network-File-Shares-and-Permissions), and [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals).
+
+Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated. 
+
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
